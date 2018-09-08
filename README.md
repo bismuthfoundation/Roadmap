@@ -58,3 +58,4 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
+* 2018-09-01: Inflation reduction, rewards for hypernodes introduced
