@@ -11,6 +11,8 @@ Below is a list of activities, features and projects expected to be completed wi
 * Stats Page on web and wallet (for wallet-servers and more)
 * Complete Hypernodes implementation
 * Hypernodes supervision and alerts
+* Develop partnerships around Hypernode hosting
+* Ever going effort to get listed on more - reliable - exchanges.
 
 ## Mid-Term (3-6 Months)
 Below is a list of activities, features and projects expected to be completed within 3-6 months:  
@@ -43,11 +45,12 @@ Initial Bounty: 1000 BIS (will increase)
 Depending on Twitter votes (Magento, Prestashop, WooCommerce, Other)
 
 ## Suggestions
-Projects that could enter in the roadmap once the timeframe is defined.
+Projects that are discussed and could enter in the roadmap once the timeframe is defined.
 
 * Tokens explorer
 * Hypernodes metrics and reward explorer
 * Bis Hackaton
+* Potential Fork to get the PoW algo more Asic and FPGA resistant
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
