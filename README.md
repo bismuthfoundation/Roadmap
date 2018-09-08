@@ -19,6 +19,7 @@ Below is a list of activities, features and projects expected to be completed wi
 * rework tokens-tab in wallet
 * Evolve hypernodes into a generic side/child chain secure framework.
 * Decentralized file storage solution using Hypernodes
+* Improve plugins and their doc
 * More How-to and tutorials for devs
 * New version of open source pool and GPU Miner
 
@@ -26,7 +27,8 @@ Below is a list of activities, features and projects expected to be completed wi
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
 
 * Open source DAPPs showcase with tutorial
-
+* Move deterministic wallet generation into prod and live wallets.  
+  Seed wallets, paper wallets
 
 ## Future Research Areas
 * Bulletproofs: https://crypto.stanford.edu/bulletproofs
@@ -58,4 +60,3 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
-* 2018-09-01: Inflation reduction, rewards for hypernodes introduced
