@@ -33,6 +33,7 @@ Below is a list of more long-term activities, features and projects expected to 
 ## Future Research Areas
 * Bulletproofs: https://crypto.stanford.edu/bulletproofs
 * State channels smart protocols
+* Embedded hardware devices, smart wallet appliances
 
 ## Bounty Projects
 Below is a list of projects where the dev team welcomes contributions from new devs:  
@@ -57,6 +58,7 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 * Hypernodes metrics and reward explorer
 * Bis Hackaton
 * Potential Fork to get the PoW algo more Asic and FPGA resistant
+* Support of ECDSA addresses on mainnet in addition to current RSA scheme
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
