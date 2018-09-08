@@ -20,9 +20,13 @@ Below is a list of activities, features and projects expected to be completed wi
 * Evolve hypernodes into a generic side/child chain secure framework.
 * Decentralized file storage solution using Hypernodes
 * More How-to and tutorials for devs
+* New version of open source pool and GPU Miner
 
 ## Long-Term (6+ Months)
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
+
+* Open source DAPPs showcase with tutorial
+
 
 ## Future Research Areas
 * Bulletproofs: https://crypto.stanford.edu/bulletproofs
