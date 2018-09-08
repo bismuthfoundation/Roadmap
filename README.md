@@ -17,6 +17,7 @@ Below is a list of activities, features and projects expected to be completed wi
 * rework tokens-tab in wallet
 * Evolve hypernodes into a generic side/child chain secure framework.
 * Decentralized file storage solution using Hypernodes
+* More How-to and tutorials for devs
 
 ## Long-Term (6+ Months)
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
@@ -46,6 +47,7 @@ Projects that could enter in the roadmap once the timeframe is defined.
 
 * Tokens explorer
 * Hypernodes metrics and reward explorer
+* Bis Hackaton
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
