@@ -71,3 +71,4 @@ As activities from the lists above are completed, they are moved to here showing
 * 2017-11-18: First public GPU mining pool (EggPool)
 * 2017-09-30: Listing on first exchange (Cryptopia)
 * 2017-05-01: Mainnet launch and bitcointalk thread opened
+* 2016-06-24: Testnet launch
