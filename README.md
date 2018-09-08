@@ -1,5 +1,5 @@
 # Roadmap
-Dev team roadmap document
+Dev team roadmap document: this document shows the short-, mid- and long-term development plans of the dev team, as well as bounty projects where contributions from new developers are welcome. As activities are completed, they are moved down to the "Completed" list. This document should be updated fairly frequently.
 
 ## Short-Term (0-3 months)
 Below is a list of activities, features and projects expected to be completed within 3 months:  
