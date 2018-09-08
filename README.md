@@ -28,7 +28,7 @@ Electrum wallet for Bismuth
 https://github.com/bismuthfoundation/alliage  
 Initial Bounty: 1000 BIS (will increase)
 
-* WordPress open source e-commerce plugin for Bismuth
+* WordPress open source e-commerce plugin for Bismuth  
 Depending on Twitter votes (Magento, Prestashop, WooCommerce, Other)
 
 ## Completed
