@@ -5,9 +5,11 @@ Dev team roadmap document
 Below is a list of activities, features and projects expected to be completed within 3 months:  
 * Integrate better multi-address solution in wallet (actually load another .der-file manually - automate that and the handling inside the tabs)
 * Stats Page on web and wallet for wallet-servers and more)
+* Complete Hypernodes implementation
 
 ## Mid-Term (3-6 Months)
 Below is a list of activities, features and projects expected to be completed within 3-6 months:  
+* Decentralized file storage solution using Hypernodes
 
 ## Long-Term (6+ Months)
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
