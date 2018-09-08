@@ -66,3 +66,4 @@ As activities from the lists above are completed, they are moved to here showing
 * 2018-05-30: Plug-in system introduced
 * 2018-05-15: Tabbed wallet design introduced
 * 2017-12-15: Difficulty adjustment algorithm based on PID feedback controller introduced
+* 2017-09-30: Listing on first exchange (Cryptopia)
