@@ -15,6 +15,9 @@ Below is a list of activities, features and projects expected to be completed wi
 ## Long-Term (6+ Months)
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
 
+## Future Research Areas
+* Bulletproofs: https://crypto.stanford.edu/bulletproofs
+
 ## Bounty Projects
 Below is a list of projects where the dev team welcomes contributions from new devs:  
 
