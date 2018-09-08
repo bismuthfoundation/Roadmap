@@ -69,6 +69,7 @@ As activities from the lists above are completed, they are moved to here showing
 * 2018-05-15: Tabbed wallet design introduced
 * 2017-12-15: Difficulty adjustment algorithm based on PID feedback controller introduced
 * 2017-11-18: First public GPU mining pool (EggPool)
+* 2017-10-01: Decentralized token layer introduced
 * 2017-09-30: Listing on first exchange (Cryptopia)
 * 2017-05-01: Mainnet launch and bitcointalk thread opened
 * 2016-06-24: Testnet launch
