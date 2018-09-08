@@ -3,6 +3,8 @@ Dev team roadmap document
 
 ## Short-Term (0-3 months)
 Below is a list of activities, features and projects expected to be completed within 3 months:  
+* Integrate better multi-address solution in wallet (actually load another .der-file manually - automate that and the handling inside the tabs)
+* Stats Page on web and wallet for wallet-servers and more)
 
 ## Mid-Term (3-6 Months)
 Below is a list of activities, features and projects expected to be completed within 3-6 months:  
