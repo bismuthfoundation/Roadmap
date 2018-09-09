@@ -21,6 +21,7 @@ Below is a list of activities, features and projects expected to be completed wi
 * Decentralized file storage solution using Hypernodes
 * Improve plugins and their doc
 * More How-to and tutorials for devs
+* Cold staking for Fuel
 * New version of open source pool and GPU Miner
 
 ## Long-Term (6+ Months)
