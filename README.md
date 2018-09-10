@@ -67,18 +67,18 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 As activities from the lists above are completed, they are moved to here showing date completed:  
 * 2018-09-08: Hypernode network up-and-running, first weekly payout
 * 2019-08-31: 54 Hypernodes running, 1 000 000 $BIS Hypernodes collateral mark
-* 2018-08-31: Inflation reduction, rewards for hypernodes introduced
+* 2018-08-31: Inflation reduction, rewards for hypernodes
 * 2018-08-29: Hypernodes code and explorer public release
 * 2018-08-20: Origin of PoS chain, first real world PoSnet
-* 2018-07-31: Listing on second exchange (BiteBTC)
-* 2018-07-18: Logo contest completed and new logo selected
-* 2018-06-22: Tail removal block validation implemented
-* 2018-06-13: Dragginator DApp launched
-* 2018-05-30: Plug-in system introduced
-* 2018-05-15: Tabbed wallet design introduced
-* 2017-12-15: Difficulty adjustment algorithm based on PID feedback controller introduced
+* 2018-07-31: Second exchange (BiteBTC)
+* 2018-07-18: Logo contest, new logo
+* 2018-06-22: Tail removal block validation
+* 2018-06-13: Dragginator DApp
+* 2018-05-30: Plug-in system
+* 2018-05-15: Tabbed wallet design
+* 2017-12-15: Difficulty adjustment algorithm based on PID feedback controller
 * 2017-11-18: First public GPU mining pool (EggPool)
-* 2017-10-01: Decentralized token layer introduced
-* 2017-09-30: Listing on first exchange (Cryptopia)
+* 2017-10-01: Decentralized token layer
+* 2017-09-30: First exchange (Cryptopia)
 * 2017-05-01: Mainnet launch and bitcointalk thread opened
 * 2016-06-24: Testnet launch
