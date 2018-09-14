@@ -17,6 +17,8 @@ Below is a list of activities, features and projects expected to be completed wi
 ## Mid-Term (3-6 Months)
 Below is a list of activities, features and projects expected to be completed within 3-6 months:  
 * rework tokens-tab in wallet
+* Integrate tokens in main GUI to allow for easier use
+* Add tokens features to official block explorers
 * Evolve hypernodes into a generic side/child chain secure framework.
 * Decentralized file storage solution using Hypernodes
 * Improve plugins and their doc
