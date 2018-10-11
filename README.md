@@ -3,6 +3,9 @@ Dev team roadmap document: this document shows the short-, mid- and long-term de
 As activities are completed, they are moved down to the "Completed" list.  
 This document should be updated fairly frequently.
 
+> Note: PoW fork on October 8 was not planned in this Roadmap. Needed much research, tests and energy.
+Was needed to avoid centralization, see https://github.com/bismuthfoundation/mining-algos/blob/master/Docs/Fork-FAQ.md for more info
+
 ## Short-Term (0-3 months)
 Below is a list of activities, features and projects expected to be completed within 3 months:  
 * Run bounty projects, improve dev doc, attract new devs on side projects
@@ -36,6 +39,7 @@ Below is a list of more long-term activities, features and projects expected to 
 ## Future Research Areas
 * Bulletproofs: https://crypto.stanford.edu/bulletproofs
 * State channels smart protocols
+* Private Smart Contracts https://petsymposium.org/2018/files/hotpets/9-goldfeder.pdf
 * Embedded hardware devices, smart wallet appliances
 
 ## Bounty Projects
