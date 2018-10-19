@@ -28,6 +28,7 @@ Below is a list of activities, features and projects expected to be completed wi
 * More How-to and tutorials for devs
 * Cold staking for Fuel
 * New version of open source pool and GPU Miner
+* Work on an unified websocket API, with consistent naming of methods.
 
 ## Long-Term (6+ Months)
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
