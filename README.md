@@ -12,7 +12,6 @@ Below is a list of activities, features and projects expected to be completed wi
 * Integrate better multi-address solution in wallet  
   (actually load another .der-file manually - automate that and the handling inside the tabs)
 * Stats Page on web and wallet (for wallet-servers and more)
-* Complete Hypernodes implementation
 * Hypernodes supervision and alerts
 * Develop partnerships around Hypernode hosting
 * Ever going effort to get listed on more - reliable - exchanges.
