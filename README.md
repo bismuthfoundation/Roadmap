@@ -89,5 +89,7 @@ As activities from the lists above are completed, they are moved to here showing
 * 2017-09-30: First exchange (Cryptopia)
 * 2017-05-01: Mainnet launch and bitcointalk thread opened
 * 2016-06-24: Testnet launch
+* 2016-08-20: Hypernodes launch
+* 2016-10-08: New mining algorithm (Bismuth Heavy3)
 
 <img src="img/bis_new_roadmap.jpg" alt="Bismuth Roadmap"> 
