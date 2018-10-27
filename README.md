@@ -71,6 +71,7 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
+* 2018-10-08: New mining algorithm successfully launched (Bismuth Heavy3)
 * 2018-09-08: Hypernode network up-and-running, first weekly payout
 * 2019-08-31: 54 Hypernodes running, 1 000 000 $BIS Hypernodes collateral mark
 * 2018-08-31: Inflation reduction, rewards for hypernodes
@@ -88,7 +89,5 @@ As activities from the lists above are completed, they are moved to here showing
 * 2017-09-30: First exchange (Cryptopia)
 * 2017-05-01: Mainnet launch and bitcointalk thread opened
 * 2016-06-24: Testnet launch
-* 2016-08-20: Hypernodes launch
-* 2016-10-08: New mining algorithm (Bismuth Heavy3)
 
 <img src="img/bis_new_roadmap.jpg" alt="Bismuth Roadmap"> 
