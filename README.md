@@ -13,6 +13,7 @@ Below is a list of activities, features and projects expected to be completed wi
   (actually load another .der-file manually - automate that and the handling inside the tabs)
 * Stats Page on web and wallet (for wallet-servers and more)
 * Hypernodes supervision and alerts
+* New bootstrap solution, and blockchain verification
 * Develop partnerships around Hypernode hosting
 * Ever going effort to get listed on more - reliable - exchanges.
 
