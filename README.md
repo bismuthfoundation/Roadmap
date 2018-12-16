@@ -6,36 +6,45 @@ This document should be updated fairly frequently.
 > Note: PoW fork on October 8 was not planned in this Roadmap. Needed much research, tests and energy.
 Was needed to avoid centralization, see https://github.com/bismuthfoundation/mining-algos/blob/master/Docs/Fork-FAQ.md for more info
 
+> Note2: Dev efforts on the legacy wallet have been postponed due to the new gen "Tornado" Wallet.
+
 ## Short-Term (0-3 months)
 Below is a list of activities, features and projects expected to be completed within 3 months:  
-* Run bounty projects, improve dev doc, attract new devs on side projects
-* Integrate better multi-address solution in wallet  
-  (actually load another .der-file manually - automate that and the handling inside the tabs)
+* Run bounty projects, improve dev doc, attract new devs on side projects. This is an ever going task.
+* Better support for tokens and multiaddresses in wallets
+* Add tokens features to official block explorers
 * Stats Page on web and wallet (for wallet-servers and more)
-* Hypernodes supervision and alerts
-* New bootstrap solution, and blockchain verification
-* Develop partnerships around Hypernode hosting
+* Add Hypernodes supervision and alerts in Walelt and Pawer bot.
+* Add Features to the Pawer Discord Bot.
+* Push the new gen Tornado wallet out of beta (needs security audits)
+* Add features and themes to the new gen Tornado wallet
+* Dev docs to open wallet dev (themes as well as Crystals) to external devs
+* New bootstrap solution, and blockchain verification - In Testing stage
+* Develop partnerships around Hypernode hosting - Still ongoing
 * Ever going effort to get listed on more - reliable - exchanges.
+* rewrite of core code to ease maintenance and external devs adoption
+* optimization of sql requests and DB access
 
 ## Mid-Term (3-6 Months)
 Below is a list of activities, features and projects expected to be completed within 3-6 months:  
-* rework tokens-tab in wallet
-* Integrate tokens in main GUI to allow for easier use
-* Add tokens features to official block explorers
-* Evolve hypernodes into a generic side/child chain secure framework.
 * Decentralized file storage solution using Hypernodes
+* Open source DAPPs showcase with tutorial: go on with "Hack with Bis" repo and more tutorials
 * Improve plugins and their doc
 * More How-to and tutorials for devs
-* Cold staking for Fuel
 * New version of open source pool and GPU Miner
 * Work on an unified websocket API, with consistent naming of methods.
+* Official API for instant addresses balance requests (BIS as well as Tokens)
+* Cold staking for Fuel
+* Hyperlane Technology
+* Work on an official Whitepaper
 
 ## Long-Term (6+ Months)
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
 
-* Open source DAPPs showcase with tutorial
 * Move deterministic wallet generation into prod and live wallets.  
-  Seed wallets, paper wallets
+  Seed wallets, paper wallets - Needs more research for security reasons.
+* Generalize the Hypernode technology into a side/child chain secure framework.
+* Real world use case of the Hyperlane Technology
 
 ## Future Research Areas
 * Bulletproofs: https://crypto.stanford.edu/bulletproofs
@@ -66,7 +75,7 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 
 * Tokens explorer
 * Hypernodes metrics and reward explorer
-* Bis Hackaton
+* BIS Hackaton
 * Potential Fork to get the PoW algo more Asic and FPGA resistant
 * Support of ECDSA addresses on mainnet in addition to current RSA scheme
 
