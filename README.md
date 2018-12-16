@@ -14,7 +14,7 @@ Below is a list of activities, features and projects expected to be completed wi
 * Better support for tokens and multiaddresses in wallets
 * Add tokens features to official block explorers
 * Stats Page on web and wallet (for wallet-servers and more)
-* Add Hypernodes supervision and alerts in Walelt and Pawer bot.
+* Add Hypernodes supervision and alerts in Wallet and Pawer bot.
 * Add Features to the Pawer Discord Bot.
 * Push the new gen Tornado wallet out of beta (needs security audits)
 * Add features and themes to the new gen Tornado wallet
