@@ -37,6 +37,7 @@ Below is a list of activities, features and projects expected to be completed wi
 * Cold staking for Fuel
 * Hyperlane Technology
 * Work on an official Whitepaper
+* Website redesign and re-organisation
 
 ## Long-Term (6+ Months)
 Below is a list of more long-term activities, features and projects expected to take longer than 6 months to complete:  
