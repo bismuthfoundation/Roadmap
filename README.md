@@ -72,6 +72,16 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
+* 2018-12-15: 18 Translations completed by the community in an awesome effort!
+* 2018-12-10: Alpha version of the new gen translatable Wallet
+* 2018-11-29: Bismuth listed on TradeSatoshi
+* 2018-11-29: Bismuth on Delta Direct
+* 2018-11-..: Several contributions from community devs (API ticker from Cipery, Client libraries from LeMoussel)
+* 2018-11-22: EasyRabbit integration
+* 2018-11-20: Official release of "Hack with BIS", series of tuto for developers to build on BIS
+* 2018-11-17: Bismuth listed on QTrade
+* 2018-11-15: Bismuth on Blockfolio signal
+* 2018-11-15: Antimony console wallet Beta - Targeted toward devs and automation freask.
 * 2018-10-08: New mining algorithm successfully launched (Bismuth Heavy3)
 * 2018-09-08: Hypernode network up-and-running, first weekly payout
 * 2019-08-31: 54 Hypernodes running, 1 000 000 $BIS Hypernodes collateral mark
