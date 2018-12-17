@@ -15,6 +15,8 @@ BIS supports two extra fields that can be leveraged by extra protocols: the "dat
 
 ### 1.4 Message encryption
 
+### 1.5 Abstract transactions
+
 ## 2. Private contracts
 
 ### 2.1. Private as in private data
