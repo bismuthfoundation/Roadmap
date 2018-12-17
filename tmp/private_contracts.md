@@ -5,6 +5,15 @@ Generic answer to https://www.reddit.com/r/cryptobismuth/comments/a6tlt6/private
 
 ## 1. Bismuth Specifics
 
+### 1.1 Transaction structure
+
+BIS supports two extra fields that can be leveraged by extra protocols: the "data" and "operation" field.
+
+### 1.2 Data field
+
+### 1.3 Operation field
+
+### 1.4 Message encryption
 
 ## 2. Private contracts
 
