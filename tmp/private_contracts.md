@@ -1,4 +1,5 @@
-# On private contracts
+# On private contracts 
+(and private transactions/messages)
 
 TBD
 Generic answer to https://www.reddit.com/r/cryptobismuth/comments/a6tlt6/private_contracts/
