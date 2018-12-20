@@ -98,6 +98,7 @@ As activities from the lists above are completed, they are moved to here showing
 * 2018-10-30: Official Wallet server API and integration in light Wallet
 * 2018-10-20: Bismuth node now supports regtest mode
 * 2018-10-08: New mining algorithm successfully launched (Bismuth Heavy3)
+* 2018-09-17: Hypernode alert tools by community contributors https://github.com/bismuthfoundation/Hypernode-Alerts
 * 2018-09-11: Comprehensive guide for future exchanges "How to Implement Bismuth"
 * 2018-09-08: Hypernode network up-and-running, first weekly payout
 * 2019-08-31: 54 Hypernodes running, 1 000 000 $BIS Hypernodes collateral mark
