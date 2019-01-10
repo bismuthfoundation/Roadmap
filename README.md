@@ -19,7 +19,6 @@ Below is a list of activities, features and projects expected to be completed wi
 * Push the new gen Tornado wallet out of beta (needs security audits)
 * Add features and themes to the new gen Tornado wallet
 * Dev docs to open wallet dev (themes as well as Crystals) to external devs
-* New bootstrap solution, and blockchain verification - In Testing stage
 * Develop partnerships around Hypernode hosting - Still ongoing
 * Ever going effort to get listed on more - reliable - exchanges.
 * rewrite of core code to ease maintenance and external devs adoption
@@ -82,6 +81,7 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
+* 2019-01-10 * New bootstrap/snapshot solution, and blockchain verification
 * 2018-12-16: New gen Tornado wallet supports Crystals to add extra features
 * 2018-12-14: 18 Translations completed by the community in an awesome effort!
 * 2018-12-10: Alpha version of the new gen translatable Wallet, using the BismuthClient package.
