@@ -14,9 +14,6 @@ Below is a list of activities, features and projects expected to be completed wi
 * Better support for tokens and multiaddresses in wallets
 * Add tokens features to official block explorers
 * Stats Page on web and wallet (for wallet-servers and more)
-* Add Hypernodes supervision and alerts in Wallet and Pawer bot.
-* Add Features to the Pawer Discord Bot.
-* Add features and themes to the new gen Tornado wallet
 * Dev docs to open wallet dev (themes as well as Crystals) to external devs
 * Develop partnerships around Hypernode hosting - Still ongoing
 * Ever going effort to get listed on more - reliable - exchanges.
@@ -75,10 +72,14 @@ Projects that are discussed and could enter in the roadmap once the timeframe is
 * Hypernodes metrics and reward explorer
 * BIS Hackaton
 * Potential Fork to get the PoW algo more Asic and FPGA resistant
-* Support of ECDSA addresses on mainnet in addition to current RSA scheme
 
 ## Completed
 As activities from the lists above are completed, they are moved to here showing date completed:  
+* 2019-07-07 Whitepaper v1.1
+* 2019-07-01 Add Hypernodes supervision and alerts in Wallet and Pawer bot.
+* 2019-07-01 Add Features to the Pawer Discord Bot.
+* 2019-07-01 Add features and themes to the new gen Tornado wallet
+* 2019-06-06 Support of ECDSA addresses on mainnet in addition to current RSA scheme
 * 2019-04-02 Whitepaper v1.0 released
 * 2019-03-20 Pushed the new gen Tornado wallet out of beta (incl. security audits)
 * 2019-01-10 New bootstrap/snapshot solution, and blockchain verification
