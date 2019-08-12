@@ -10,4 +10,4 @@ A bounty of 5,000 BIS has be issued to iyomisc for his work on integrating Bismu
 
 – Video how to: https://www.youtube.com/watch?v=j2GT-LDS-x8  
 – Github: https://github.com/bismuthfoundation/Pawer-discord-bot  
-– Bismuth Discord, see #pawer-bot channel https://discord.gg/mDxgJc5
+– Bismuth Discord, see #pawer-bot channel https://discord.gg/8KvA3JU
