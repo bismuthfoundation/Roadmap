@@ -1,4 +1,4 @@
-# Ecommerce Plugin
+# Ecommerce Plugins
 
 Wordpress has become the reference framework for a lot of websites, including ecommerce websites.  
 With an Ecommerce plugin, it's easy to build a simple shop on top of Wordpress.  
@@ -9,7 +9,7 @@ We target both of these plugins with a payment gateway add-on.
 **Status: Open**  
 > You can work on this and be rewarded
 
-## Amount
+## Amount
 
 TBD
 
@@ -18,7 +18,7 @@ TBD
 Payment gateways for Prestashop and Magento could also be rewarded.  
 Please contact us on discord if this is your area of expertise.
 
-## Generic specifications
+## Generic specifications
 
 - Code has to be released as open source, either GPL or MIT licence
 - Code has to be your work, port of an existing open source project is ok if mentionned and the added value is real.
@@ -42,9 +42,10 @@ Please contact us on discord if this is your area of expertise.
 ## Easy Digital Downloads
 
 
-## Reference
+## Reference
 
 - Bismuth API, inc. PHP client
 - Hack with Bis
 - "How to integrate" document, for exchanges
+- Ask in #dev Discord channel https://discord.gg/8KvA3JU
 
