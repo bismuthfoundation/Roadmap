@@ -6,5 +6,5 @@ The new bounty programme will touch on crucial areas that will support the platf
 
 ## For more info about the Bounties
 
-- This github, see bounties list
-– Bismuth Discord, https://discord.gg/8KvA3JU
+- This github, see bounties status https://github.com/bismuthfoundation/Roadmap/tree/master/bounties#bounties-status  
+- Bismuth Discord, https://discord.gg/8KvA3JU
