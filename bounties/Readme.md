@@ -14,10 +14,10 @@ Overview of the Boutnies program: https://github.com/bismuthfoundation/Roadmap/b
 - `[Open]` Translations  
   https://github.com/bismuthfoundation/Roadmap/blob/master/bounties/002-Translation_bounties.md
   
-- `[TBA]` HTML/Js wallet
+- `[TBA]` HTML/Js wallet  
   https://github.com/bismuthfoundation/Roadmap/blob/master/bounties/003-Html_Js_Wallet.md
   
-- `[Open]` WP Ecommerce plugins 
+- `[Open]` WP Ecommerce plugins  
   https://github.com/bismuthfoundation/Roadmap/blob/master/bounties/004-ECommerce_plugins.md
 
 
