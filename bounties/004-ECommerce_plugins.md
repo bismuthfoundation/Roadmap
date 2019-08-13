@@ -23,15 +23,20 @@ Please contact us on discord if this is your area of expertise.
 - Code has to be released as open source, either GPL or MIT licence
 - Code has to be your work, port of an existing open source project is ok if mentionned and the added value is real.
 - Minimal use of external dependencies and frameworks. The task is small enough for vanilla code to fit well.
+- variables names and code comments are to be in English
+
+Things that can be worked on in a second step, by further exchanges with devs:
+
 - Minimal user doc has to be provided (install/config/usage)
 - Minimal dev doc has to be provided (general lines, code and files architecture)
-- variables names and code comments are to be in English
-- Texts that will surface into the UI will use gettext so the plugin can be translated via po/mo files, and use english as base language.  
-(the translation itself is not part of the bounty, but the plugin has to be translatable)
+- Texts that will surface into the UI will use gettext so the plugin can be translated via po/mo files, and use english as base language.  (the translation itself is not part of the bounty, but the plugin has to be translatable eventually)
 
 The add on can support Woo Commerce alone, EDD alone, or both.  
 A single plugin supporting both would be easier to maintain and could get a bonus.  
 MyCryptocheckout for instance supports both https://wordpress.org/plugins/mycryptocheckout/
+
+At every stage, the Bismuth Team is willing to help and assist with code sample, tools, doc, specs, test cases, architecture choice, anything we can. You are not necessarily alone. Even junior developers can give it a try.  
+Teams also are allowed (with one representative).
 
 
 ## Bismuth Related specifications
@@ -42,6 +47,8 @@ MyCryptocheckout for instance supports both https://wordpress.org/plugins/mycryp
 - Uses custom data field of bismuth transactions to link order and payment
 - Use of polling to get the transactions status (1/min at most)
 - connects to a specific wallet server (can be a private one) or use the Bismuth wallet API to get a list of working public ones.
+
+> We provide unlimited support for that side.
 
 ## Woo-Commerce specifications
 
@@ -77,6 +84,8 @@ https://wordpress.org/plugins/easy-digital-downloads/
 Easy digital download lists a lot of gateways add on, including github to thirs party ones.
 
 ## Bismuth References
+
+WIP, to be completed with links.
 
 - Bismuth API, inc. PHP client
 - TODO: php bisurl class
