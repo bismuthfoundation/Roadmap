@@ -20,6 +20,7 @@ Overview of the Boutnies program: https://github.com/bismuthfoundation/Roadmap/b
 - `[Open]` WP Ecommerce plugins  
   https://github.com/bismuthfoundation/Roadmap/blob/master/bounties/004-ECommerce_plugins.md
 
+- `[TBA]` Help for hardware wallet integration  
 
 ## Open bounties
 
