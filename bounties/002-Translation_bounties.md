@@ -3,7 +3,7 @@
 Some translation tasks are warded a bounty.  
 Bounty amount may be fixed upfront, or sent afterward, after a voluntary work.
 
-WIP
+Chinese Translation needed for:
 
 ## Whitepaper
 
