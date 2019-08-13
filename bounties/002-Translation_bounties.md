@@ -7,7 +7,7 @@ Chinese Translation needed for:
 
 ## Whitepaper
 
-## Announce Thread
+## Announcement Thread
 
 ## Tornado Wallet
 
