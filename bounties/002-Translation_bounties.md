@@ -20,5 +20,7 @@ https://discord.gg/8KvA3JU
 # Languages needed:
 
 Chinese - WIP;
+
 Korean - Done.
+
 Japanese - Done.
