@@ -87,10 +87,13 @@ Easy digital download lists a lot of gateways add on, including github to thirs 
 
 WIP, to be completed with links.
 
-- Bismuth API, inc. PHP client
-- TODO: php bisurl class
-- Hack with Bis
-- "How to integrate" document, for exchanges
-- TODO: Bismuth wallet API: how to get/use the list of working servers
+- Bismuth API, inc. PHP client https://github.com/bismuthfoundation/BismuthAPI
+- Hack with Bis https://github.com/bismuthfoundation/Hack-with-BIS
+- "How to implement" document, primarily intended for exchanges but still useful https://github.com/bismuthfoundation/Bismuth-FAQ/blob/master/Exchanges/How_to_Implement.md
+- Address and transaction serialization could help https://github.com/bismuthfoundation/polysign/tree/master/polysign/doc
+- TODO: php bisurl class.  
+  A bisurl is a single string that encodes recipient, amount and data. That's the thing to use for easy payments.
+- TODO: Bismuth wallet API:  
+  How to get/use the list of working servers from the api instead of using a hardcoded list.
 - Ask in #dev Discord channel https://discord.gg/8KvA3JU
 
