@@ -81,7 +81,7 @@ https://wordpress.org/plugins/easy-digital-downloads/
 - Generate bisurl and bisurl qrcode
 - Display raw payment address and data as well for wallets not supporting bis urls
 
-Easy digital download lists a lot of gateways add on, including github to thirs party ones.
+Easy digital download lists a lot of gateways add on, including Github to third party ones.
 
 ## Bismuth References
 
